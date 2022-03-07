@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azrail212, aka Azra Kadrić c:
-- 👀 I’m a full-time wordpress web designer and developer and IT student currently forced to make actual programming projects(yay)
+- 👀 I’m a full-time Wordpress web designer and developer and IT student currently forced to make actual programming projects(yay)
 - 🌱 Currently learning Web Development with PHP&MySql, using FlightPHP and more juicy stuff in the future
 - 💞️ I’m just trying to graduate.
 - 📫 How to reach me 
