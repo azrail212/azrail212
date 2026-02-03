@@ -15,6 +15,9 @@ Currently expanding into React Native to build full-stack web + mobile applicati
 - Learning React Native for mobile
 
 ## 📌 Featured Projects
+### 📍 Where Did I Put That?
+A minimalist React Native + Expo mobile app for tracking where you store household items. (Expo SDK 54 · React Native 0.81 · SQLite (local DB) · NativeWind (Tailwind CSS))
+
 ### 🧠 AIReel
 Share AI video content with modular designs.
   
