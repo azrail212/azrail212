@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Azra (azrail212)
+# 👋 Hi, I’m Azra 
 
 ## Senior WordPress Developer | Custom Plugins & Systems | React Native Learner**
 Senior WordPress Developer with 5+ years of experience building custom plugins, tailored solutions, and complex systems. BSc in IT and passionate about clean, scalable development.
